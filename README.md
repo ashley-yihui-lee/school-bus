@@ -1,5 +1,7 @@
 # NYC Transportation: Congestion Pricing Cuts School Bus Delays in Manhattan
 
+Read the story [here](https://ashley-yihui-lee.github.io/school-bus/)
+
 This story looks at how congestion pricing, launched in January 2025, helped reduce school bus delays caused by heavy traffic in Manhattan — but delays continue to plague the city.
 
 Using R, I cleaned and analyzed NYC’s “Bus Breakdown and Delays” dataset from January to June (2024 and 2025), focusing on delays due to heavy traffic. I grouped and compared the data by year, borough, and delay duration.
